@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.joseandres.rewardscliente",
+      "sha256_cert_fingerprints": [
+        "48:36:7C:D3:E5:C4:46:E0:54:73:7C:17:12:9D:FB:B8:4E:EB:06:45:60:11:F1:28:75:07:D0:DD:EF:DB:17:57"
+      ]
+    }
+  }
+]
